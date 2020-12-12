@@ -1,0 +1,25 @@
+{
+  "name": "visual-regression-test-sample",
+  "version": "1.0.0",
+  "description": "12/13 アドベントカレンダーのサンプルコード",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksoga-graat/visual-regression-test-sample.git"
+  },
+  "keywords": [],
+  "author": "Kennji Soga <k.soga@graat.co.jp>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksoga-graat/visual-regression-test-sample/issues"
+  },
+  "homepage": "https://github.com/ksoga-graat/visual-regression-test-sample#readme",
+  "devDependencies": {
+    "cypress": "^6.0.1",
+    "cypress-image-snapshot": "^4.0.0",
+    "http-server": "^0.12.3"
+  }
+}
